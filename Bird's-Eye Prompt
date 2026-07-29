@@ -1,0 +1,59 @@
+# 📸 Bird's-Eye Street Style Fashion Portrait Prompt
+
+Collection of optimized AI image generation prompts for creating high-fashion, high-angle street style portraits (Midjourney, DALL-E 3, Stable Diffusion).
+
+Inspired by: [MeraCollege - Bird's-Eye Street Style Fashion Portrait Prompt](https://meracollege.net/en/birdseye-street-style-fashion-portrait-prompt)
+
+---
+
+## 🌟 Overview
+
+Bird's-eye view (high camera angle pointing directly down or at a steep downward tilt) creates dramatic, editorial-style fashion portraits. Combined with modern street style elements, these prompts generate striking visuals for lookbooks, social media, and portfolio designs.
+
+---
+
+## 🎨 Master Prompt Structure
+
+To get the best results, structure your prompt using this formula:
+
+> **[Camera Angle & View]** + **[Subject & Outfit Details]** + **[Setting / Street Texture]** + **[Lighting & Atmosphere]** + **[Style & Camera Gear]**
+
+---
+
+## ⚡ Ready-to-Use Prompts
+
+### 1. Urban Chic (Midjourney / DALL-E 3)
+> Extreme bird's-eye view fashion portrait of a stylish model standing on an asphalt street with bold white crosswalk stripes. Wearing an oversized beige trench coat, wide-leg trousers, and retro sneakers. High contrast mid-day sunlight casting sharp dramatic shadows. Shot on 35mm lens, 8k resolution, editorial fashion photography style, highly detailed textures. `--ar 4:5 --v 6.0`
+
+### 2. Neon Cyberpunk Street Style
+> Top-down aerial view of a model lying on a wet city pavement reflecting neon pink and blue lights. Wearing a metallic puffer jacket and futuristic street fashion. Rain-slicked tarmac texture, high-fashion magazine aesthetic, sharp focus, cinematic lighting.
+
+### 3. Minimalist Pastel Aesthetic
+> High-angle direct top-down shot of a fashion model walking across a pastel-pink painted concrete walkway. Styled in a vibrant cobalt blue monochrome outfit with futuristic sunglasses. Soft diffused lighting, clean shadows, Vogue editorial style, minimalist composition.
+
+---
+
+## 💡 Key Keywords for Best Results
+
+| Category | Recommended Keywords |
+| :--- | :--- |
+| **Angle / View** | `Extreme bird's-eye view`, `Top-down angle`, `Overhead shot`, `High camera angle` |
+| **Environment** | `Cobblestone street`, `Asphalt with crosswalk lines`, `Wet pavement`, `Urban pavement` |
+| **Lighting** | `Harsh afternoon shadows`, `Diffused skylight`, `Neon reflections`, `Cinematic sunlight` |
+| **Aesthetic** | `Editorial fashion portrait`, `Streetwear lookbook`, `Vogue style`, `35mm photography` |
+
+---
+
+## 🛠️ How to Use
+
+1. Copy any of the prompts above.
+2. Open your preferred AI tool (**Midjourney**, **DALL-E 3**, or **Stable Diffusion**).
+3. Tweak colors, clothing styles, or street textures according to your preference.
+4. Run the generation!
+
+---
+
+## 📜 License & Attribution
+
+* Content inspired by [MeraCollege Article](https://meracollege.net/en/birdseye-street-style-fashion-portrait-prompt).
+* Free to use for personal and commercial projects.

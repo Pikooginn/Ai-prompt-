@@ -1,0 +1,43 @@
+# 🎬 Old Money Gentleman with 1969 Mustang – Cinematic Portrait Prompt
+
+A high-end, vintage-inspired AI image generation prompt designed to create an elegant, timeless cinematic portrait. Featuring a classic **1969 Ford Mustang** alongside a sophisticated **Old Money Gentleman**, this prompt brings out warmth, rich textures, and 35mm film aesthetics.
+
+---
+
+## 🖼️ Concept Overview
+
+* **Subject:** An elegant Old Money gentleman in a tailored wool/cashmere suit.
+* **Vehicle:** Classic 1969 Ford Mustang (dark metallic finish, subtle chrome details).
+* **Setting:** An aristocratic European estate drive or timeless countryside road during golden hour.
+* **Atmosphere:** Warm, nostalgic, cinematic, luxurious, shot on 35mm film.
+
+---
+
+## 📝 The Prompt
+
+Copy and paste the following prompt into your preferred AI image generator (**Midjourney v6**, **DALL-E 3**, **Stable Diffusion XL**, or **Flux**):
+
+> **Prompt:**  
+> Cinematic portrait of a sophisticated Old Money gentleman standing beside a classic dark metallic 1969 Ford Mustang, vintage European estate entrance in the background, late afternoon golden hour lighting, tailored tweed wool blazer, crisp dress shirt, subtle leather accessories, confident and relaxed posture, rich natural color grading, shot on 35mm film, shallow depth of field, subtle film grain, ultra-realistic texture, 8k resolution, photorealistic, dramatic natural shadows --ar 16:9 --style raw --v 6.0
+
+---
+
+## ⚙️ Recommended Settings
+
+| Parameter | Recommended Value | Description |
+| :--- | :--- | :--- |
+| **Aspect Ratio (`--ar`)** | `16:9` or `3:2` | Best for cinematic widescreen framing |
+| **Stylize (`--s`)** | `100 - 250` | Keeps realism high without over-styling |
+| **Model** | Midjourney v6 / Flux.1 Dev | Delivers the best skin textures and car reflection details |
+
+---
+
+## 💡 Prompt Customization Tips
+
+* **Change the Vehicle Color:** Replace `dark metallic 1969 Ford Mustang` with `midnight blue 1969 Ford Mustang` or `black 1969 Ford Mustang`.
+* **Adjust Mood/Time:** Change `golden hour lighting` to `overcast moody lighting` or `foggy morning mist` for a darker atmosphere.
+* **Outfit Variations:** Swap `tailored tweed wool blazer` with `classic trench coat` or `cashmere turtleneck`.
+
+---
+
+🔗 **Source / Credit:** Inspired by [MeraCollege](https://meracollege.net/en/old-money-gentleman-with-1969-mustang-cinematic-portrait-prompt)
